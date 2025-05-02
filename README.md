@@ -1,7 +1,7 @@
 # ReactJS で映画ウェブサービス作り
 
 #### url : [Movie Rank](https://honghyunahn.github.io/react_movie/)
-#### Notion : [Notion筆記](https://anh288.notion.site/React-js-Begginer-176158daee4680a283eaf428a1e99887)
+#### Notion : [Movie Rank Notion筆記](https://anh288.notion.site/React-js-Begginer-176158daee4680a283eaf428a1e99887)
 
 ## 利用したスキル
 
